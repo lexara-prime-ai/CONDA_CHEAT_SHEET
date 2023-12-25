@@ -1,4 +1,7 @@
 ## Create Conda environment
+
+* NOTE: Specify a **<package name>** e.g evcxr in this case
+
 ```powershell
 conda create --name evcxr
 ```
